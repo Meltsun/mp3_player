@@ -97,7 +97,7 @@ int waw=2;
   while (1)
   {
     /* USER CODE END WHILE */
-
+    int a=1;
     /* USER CODE BEGIN 3 */
   }
   /* USER CODE END 3 */
