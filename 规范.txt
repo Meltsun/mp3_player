@@ -1,6 +1,6 @@
 关于同步：
 1.不编辑除main.c之外tm32cubemx生成的代码文件。
-2.只同步stm32cubemx的项目文件（.ioc）、main.c、.gitignore和用户创建的代码文件（udf_.c、.h）；不同步编译出来的二进制文件和其他配置文件。
+2.只同步stm32cubemx的项目文件（.ioc）、main.c、.gitignore和用户创建的代码文件；不同步编译出来的二进制文件和其他配置文件。
 3.同步后手动打开.ioc重新生成代码
 
 关于命名：
