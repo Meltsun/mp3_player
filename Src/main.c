@@ -67,7 +67,7 @@ int main(void)
 {
   /* USER CODE BEGIN 1 */
 int waw=2;
-int wxy=32;
+int wxy=322;
   /* USER CODE END 1 */
   
 
